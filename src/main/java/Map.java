@@ -1,6 +1,7 @@
 import java.awt.*;
 import java.util.ArrayList;
 
+
 public class Map extends Canvas {
     private ArrayList<MapShapes> map_shape= new ArrayList<>();
 
