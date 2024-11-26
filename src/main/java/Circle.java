@@ -1,5 +1,3 @@
-import Map_Shapes.MapShapes;
-
 import java.awt.*;
 
 public class Circle extends MapShapes {

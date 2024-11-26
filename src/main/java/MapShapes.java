@@ -1,8 +1,6 @@
-package Map_Shapes;
-
 import java.awt.*;
 
-public abstract class MapShapes {
+public abstract class MapShapes extends LocationSystem {
     protected Point position;
     protected Color color;
 
